@@ -3,12 +3,13 @@
 </div>
 
 <div id="header" align="center">
+    
+<h1 align="center">Hello everyone <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
   
-  ### Hello everyone 👋
   
-  Welcome to my GitHub page!
+### Welcome to my GitHub page!
   
- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bbt-t?tab=repositories&q=&type=&language=python&sort=)  <img src="https://github.com/bbt-t/bbt-t/blob/main/logo.gif" width="300"/> [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/bbt-t?tab=repositories&q=&type=&language=go&sort=)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bbt-t?tab=repositories&q=&type=&language=python&sort=)  <img src="https://github.com/bbt-t/bbt-t/blob/main/logo.gif" width="300"/> [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/bbt-t?tab=repositories&q=&type=&language=go&sort=)
 </div>
 
 <div id="header" align="center">
@@ -20,15 +21,16 @@
 ***  
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bbt-t&theme=navy-gear)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbt-t&theme=transparent)](https://git.io/streak-stats)
   
 </div>
 
 
 ***
   
-***use operating systems***
+***use OS***
 
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)  [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)  [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora)](https://github.com/wervlad) [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/wervlad)
 
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
