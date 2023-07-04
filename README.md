@@ -36,11 +36,6 @@
 
 ***
 
-<div id="header" align="right">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbt-t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 <!--
 **bbt-t/bbt-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
