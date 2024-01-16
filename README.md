@@ -20,7 +20,7 @@
   
 ***  
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bbt-t&theme=navy-gear)](https://git.io/streak-stats)
+
 [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbt-t&theme=transparent)](https://git.io/streak-stats)
   
 </div>
