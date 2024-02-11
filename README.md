@@ -1,10 +1,10 @@
-<div id="header" align="right">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=bbt-t&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="header" align="center">
+<div align="center">
     
-<h1 align="center">Hello everyone <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, everyone! <img src="https://github.com/bbt-t/bbt-t/blob/main/wave.gif" width="28px" alt="👋"></h1>
   
   
 ### Welcome to my GitHub page!
@@ -12,11 +12,13 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bbt-t?tab=repositories&q=&type=&language=python&sort=)  <img src="https://github.com/bbt-t/bbt-t/blob/main/logo.gif" width="300"/> [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/bbt-t?tab=repositories&q=&type=&language=go&sort=)
 </div>
 
-<div id="header" align="center">
+<div align="center">
+
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/bbt-t?tab=repositories&q=&type=&language=rust&sort=)
   
-  `I'm Nikita, I develop in Python and Golang`
+  `I'm Nikita, I develop in Python, Golang, and (a little) Rust.`
   
-  `Currently open to cooperation in interesting projects`
+  `Currently open to cooperation in interesting projects.`
   
 ***  
   
@@ -28,11 +30,9 @@
 
 ***
   
-***use OS***
+***Use OS:***
 
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)  [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora)](https://github.com/wervlad) [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/wervlad)
-
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://support.microsoft.com/ru-ru/windows)  [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora)](https://getfedora.org/) [![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian)](https://www.debian.org/)
 
 ***
 
